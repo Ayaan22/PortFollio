@@ -42,7 +42,7 @@ const Footer = () => {
             fontWeight: '700',
             color: Colours.black,
           }}>
-          +91 8985412390
+          xxxxxxxxxxx
         </Text>
       </View>
       <View style={{flexDirection: 'row', alignItems: 'center', gap: 3,marginTop:5}}>
@@ -60,7 +60,7 @@ const Footer = () => {
             fontWeight: '700',
             color: Colours.black,
           }}>
-          pathan.gouse77@gmail.com
+         xxxxxxxxxxxx
         </Text>
       </View>
      
