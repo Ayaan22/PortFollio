@@ -20,7 +20,7 @@ const Bio = () => {
             fontWeight: 'bold',
             color: Colours.black,
           }}>
-          Pathan Gouse
+          CodesofAyaan
         </Text>
         <Text
           style={{
