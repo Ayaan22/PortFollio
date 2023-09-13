@@ -8,10 +8,9 @@ const Bio = () => {
       style={{
         flexDirection: 'row',
 
-       
         alignItems: 'center',
-        justifyContent:'space-between',
-          paddingHorizontal: 20,
+        justifyContent: 'space-between',
+        paddingHorizontal: 20,
       }}>
       <View style={{width: '60%', gap: 5}}>
         <Text
@@ -20,7 +19,7 @@ const Bio = () => {
             fontWeight: 'bold',
             color: Colours.black,
           }}>
-          CodesofAyaan
+          Pathan Gouse
         </Text>
         <Text
           style={{
@@ -32,7 +31,12 @@ const Bio = () => {
         </Text>
         <Text
           numberOfLines={2}
-          style={{marginTop: 5, fontSize: 13, color: Colours.black,lineHeight:20}}>
+          style={{
+            marginTop: 5,
+            fontSize: 13,
+            color: Colours.black,
+            lineHeight: 20,
+          }}>
           I'm very passionate and creative in my app development.
         </Text>
       </View>

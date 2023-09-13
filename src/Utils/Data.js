@@ -4,8 +4,7 @@ export const projects = [
     title: 'Bici App',
     description:
       'Bici is an E-commerce bike spares app where users can purchase products and delivers in 30 minutes',
-    technologies:
-      'Android Studio,Java,Xml,Firebase FireStore,Firebase Authentication,Razor Pay',
+    technologies: 'Android Studio,Java,Xml,Firebase,Razor Pay',
     duration: '3',
   },
   {
@@ -13,8 +12,7 @@ export const projects = [
     title: 'Med App',
     description:
       'Med App assists both patient to book the slots & tablets for test samples and collections',
-    technologies:
-      'React Native Expo Cli,Api Data Fetching,Firebase Authentication,Redux,Functional Hooks',
+    technologies: 'Expo Cli,Api Data Fetching,Firebase,Redux',
     duration: '2',
   },
   {
@@ -22,8 +20,7 @@ export const projects = [
     title: 'Food App',
     description:
       'Food App is a clone app inspired by the zomato where users can purchase food products',
-    technologies:
-      'React Native Expo Cli,Api Data Fetching,Redux,Context Api,Razor Pay',
+    technologies: 'React Native Cli,Context Api,Razor Pay',
     duration: '1',
   },
 ];

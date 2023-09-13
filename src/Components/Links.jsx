@@ -10,9 +10,7 @@ const Links = () => {
         height: 50,
         justifyContent: 'center',
         alignItems: 'center',
-      }}>
-     
-    </View>
+      }}></View>
   );
 };
 
